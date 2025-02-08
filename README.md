@@ -1,16 +1,26 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://tse2.mm.bing.net/th/id/OIP.kmqPDt-kECdGoh0xyKCnsgHaFM?rs=1&pid=ImgDetMain">
+ <source media="(prefers-color-scheme: light)" srcset="https://tse3.mm.bing.net/th/id/OIP.LbP0KENVLVPkyuw3_jZMNgHaEK?rs=1&pid=ImgDetMain">
+ <img alt="BIENVENIDOS BICHOLOVERS" src="https://static.vecteezy.com/system/resources/previews/010/994/486/non_2x/cr7-symbol-logo-white-clothes-design-icon-abstract-football-illustration-with-black-background-free-vector.jpg">
+</picture>
 
-<!--
-**Denzelitro/Denzelitro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+<!-- TO DO: add more details about Real Madrid and others later -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, everyone, I´m Denzel, we have something in common
+<details>
+<summary>Top European Teams</summary>
+
+| Rank | European teams |
+|-----:|----------------|
+|     1| Real Madrid    |
+|     2| AC Milan       |
+|     3| Liverpool      |
+
+</details>
+
+---
+> The Real Madrid is the best club in the world, and no one can say otherwise
+
+— Denzel
